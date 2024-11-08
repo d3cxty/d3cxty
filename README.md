@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hirwa (a.k.a. d3cxty) 
+# 👋 Hi, I’m Hirwa but u can call me D3cxty
 # Born and Raised in The 1000 Hills country Rwanda 
 
 🔍 Passionate about cybersecurity, coding, and bringing creative tech solutions to life.
