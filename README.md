@@ -10,7 +10,7 @@
 - **PHP & JavaScript**: Crafting web applications and dynamic tools.
 - **Python**: Building efficient, scalable solutions and automating tasks.
 
----
+---                                  
 
 ## 🌱 Currently Learning
 - Advanced Cybersecurity Techniques
