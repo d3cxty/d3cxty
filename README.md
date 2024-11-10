@@ -2,7 +2,7 @@
 # Born and Raised in The 1000 Hills country Rwanda 
 
 🔍 Passionate about cybersecurity, coding, and bringing creative tech solutions to life.
-
+      
 ---
 
 ## 👀 My Interests
