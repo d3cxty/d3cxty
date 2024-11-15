@@ -32,6 +32,10 @@
 
 ---
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=d3cxty&show_icons=true&count_private=true&include_all_commits=true&theme=radical" style="width: 350px;" alt="GitHub Contributions Graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3cxty&layout=compact&theme=radical&card_width=445" style="width: 380px;" alt="Top Languages">
+
 ## ⚡ Fun Fact
 I'm fascinated by blending tech skills with a strong foundation in security. Outside of coding, I enjoy swimming, skating, and exploring new cybersecurity challenges.
 
