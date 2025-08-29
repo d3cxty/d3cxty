@@ -1,13 +1,13 @@
 <!-- Intro Typing Animation -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;Mobile+Developer;Cybersecurity+Advocate;Game+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Hi+am+Hirwa+Pie;Full+Stack+Developer;Mobile+Developer;Hacker;Game+Dev" />
 </h3>
 
 ---
 
 ## 👋 Hey there! I’m Hirwa Pie
 
-👨‍💻 **Full Stack Developer | Mobile Developer | Cybersecurity Advocate | Game Dev**  
+👨‍💻 **Full Stack Developer | Mobile Developer | Hacker | Game Dev**  
 💡 Passionate about coding, innovation, and mastering cutting-edge tech.  
 💬 Connect with me:  
 
@@ -20,17 +20,17 @@
 ## ⚡ Tech Stack  
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000&color=FF0080,7928CA,FF0080" /> 
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000&color=7928CA,FF0080,7928CA" /> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000&color=00C4B4,00F0FF,00C4B4" /> 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000&color=7928CA,FF0080,7928CA" /> 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000&color=00F0FF,00C4B4,00F0FF" /> 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000&color=FF0080,7928CA,FF0080" /> 
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000&color=7928CA,FF0080,7928CA" /> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000&color=00C4B4,00F0FF,00C4B4" /> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000&color=00F0FF,00C4B4,00F0FF" /> 
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000&color=7928CA,FF0080,7928CA" /> 
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=000&color=FF0080,7928CA,FF0080" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> 
 </p>  
 
 ---
@@ -42,32 +42,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3cxty&layout=compact&theme=radical&card_width=445" style="width: 380px;" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3cxty&theme=radical&hide_border=true" />
-</p>
 
----
-
-## 🐍 Contribution Graph  
-
-![Snake animation](https://github.com/d3cxty/d3cxty/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
 ## 🎯 Skill Levels  
 
 <p align="center">
-  <img src="https://progress-bar.dev/80/?title=NEXTJS&color=00C4B4&width=200" />
-  <img src="https://progress-bar.dev/80/?title=REACTJS&color=61DAFB&width=200" />
-  <img src="https://progress-bar.dev/90/?title=TYPESCRIPT&color=007ACC&width=200" />
-  <img src="https://progress-bar.dev/50/?title=SPRINGBOOT&color=6DB33F&width=200" />
-  <img src="https://progress-bar.dev/70/?title=SQL&color=4479A1&width=200" />
-  <img src="https://progress-bar.dev/70/?title=DJANGO&color=092E20&width=200" />
-  <img src="https://progress-bar.dev/80/?title=LARAVEL&color=FF2D20&width=200" />
-  <img src="https://progress-bar.dev/90/?title=EXPRESSJS&color=000000&width=200" />
-  <img src="https://progress-bar.dev/90/?title=TAILWIND&color=38B2AC&width=200" />
-  <img src="https://progress-bar.dev/65/?title=CYBERSECURITY&color=000000&width=200" />
-  <img src="https://progress-bar.dev/75/?title=LUA+GAME+DEV&color=2C2D72&width=200" />
+  <img src="https://img.shields.io/badge/NEXTJS-80%25-00C4B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REACTJS-80%25-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-90%25-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SPRINGBOOT-50%25-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-70%25-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DJANGO-70%25-092E20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LARAVEL-80%25-FF2D20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EXPRESSJS-90%25-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TAILWIND-90%25-38B2AC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CYBERSECURITY-65%25-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LUA__GAME__DEV-75%25-2C2D72?style=for-the-badge" />
 </p>  
 
 ---
