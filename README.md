@@ -1,30 +1,75 @@
-Hey there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">     
-I’m Hirwa pie
+<!-- Intro Typing Animation -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F75C7E&center=true&vCenter=true&lines=Full+Stack+Developer;Mobile+Developer;Cybersecurity+Advocate;Game+Dev" />
+</h3>
 
-👨‍💻 Full Stack Developer | Mobile Developer | Cybersecurity Advocate | Game Dev
+---
 
-💡 Passionate about coding, innovation, and mastering cutting-edge tech.
+## 👋 Hey there! I’m Hirwa Pie
 
-💬 Connect with me: Instagram | Email | GitHub
+👨‍💻 **Full Stack Developer | Mobile Developer | Cybersecurity Advocate | Game Dev**  
+💡 Passionate about coding, innovation, and mastering cutting-edge tech.  
+💬 Connect with me:  
 
-Currently diving deep into Blockchain tech and securing the digital world.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hirwapie00)  
+[![Email](https://img.shields.io/badge/Email-hirwapie%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:hirwapie@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-d3cxty-181717?style=for-the-badge&logo=github)](https://github.com/d3cxty)  
 
-Tech Stack
+---
 
-<p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=nextui&logoColor=white" /> <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> </p>
-Stats
+## ⚡ Tech Stack  
 
+<p align="center"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000&color=FF0080,7928CA,FF0080" /> 
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000&color=7928CA,FF0080,7928CA" /> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000&color=00C4B4,00F0FF,00C4B4" /> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000&color=7928CA,FF0080,7928CA" /> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000&color=00F0FF,00C4B4,00F0FF" /> 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000&color=FF0080,7928CA,FF0080" /> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000&color=7928CA,FF0080,7928CA" /> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000&color=00C4B4,00F0FF,00C4B4" /> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000&color=00F0FF,00C4B4,00F0FF" /> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000&color=7928CA,FF0080,7928CA" /> 
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=000&color=FF0080,7928CA,FF0080" /> 
+</p>  
 
+---
 
-<div style="display: flex; gap: 15px; justify-content: center;"> <img src="https://github-readme-stats.vercel.app/api?username=d3cxty&show_icons=true&count_private=true&include_all_commits=true&theme=radical" style="width: 350px;" alt="GitHub Contributions Graph"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3cxty&layout=compact&theme=radical&card_width=445" style="width: 380px;" alt="Top Languages"> </div>
-Let’s Connect
+## 📊 GitHub Stats  
 
+<div align="center" style="display: flex; gap: 15px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=d3cxty&show_icons=true&count_private=true&include_all_commits=true&theme=radical" style="width: 350px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3cxty&layout=compact&theme=radical&card_width=445" style="width: 380px;" />
+</div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3cxty&theme=radical&hide_border=true" />
+</p>
 
+---
 
+## 🐍 Contribution Graph  
 
+![Snake animation](https://github.com/d3cxty/d3cxty/blob/output/github-contribution-grid-snake.svg)  
 
+---
 
-Skill Levels
+## 🎯 Skill Levels  
 
-<p align="center"> <img src="https://img.shields.io/badge/NEXTJS-80%25-00C4B4?style=for-the-badge" /> <img src="https://img.shields.io/badge/REACTJS-80%25-61DAFB?style=for-the-badge" /> <img src="https://img.shields.io/badge/TYPESCRIPT-90%25-007ACC?style=for-the-badge" /> <img src="https://img.shields.io/badge/SPRINGBOOT-50%25-6DB33F?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQL-70%25-4479A1?style=for-the-badge" /> <img src="https://img.shields.io/badge/DJANGO-70%25-092E20?style=for-the-badge" /> <img src="https://img.shields.io/badge/LARAVEL-80%25-FF2D20?style=for-the-badge" /> <img src="https://img.shields.io/badge/EXPRESSJS-90%25-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/TAILWIND-90%25-38B2AC?style=for-the-badge" /> <img src="https://img.shields.io/badge/CYBERSECURITY-65%25-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/LUA__GAME__DEV-75%25-2C2D72?style=for-the-badge" /> </p>
+<p align="center">
+  <img src="https://progress-bar.dev/80/?title=NEXTJS&color=00C4B4&width=200" />
+  <img src="https://progress-bar.dev/80/?title=REACTJS&color=61DAFB&width=200" />
+  <img src="https://progress-bar.dev/90/?title=TYPESCRIPT&color=007ACC&width=200" />
+  <img src="https://progress-bar.dev/50/?title=SPRINGBOOT&color=6DB33F&width=200" />
+  <img src="https://progress-bar.dev/70/?title=SQL&color=4479A1&width=200" />
+  <img src="https://progress-bar.dev/70/?title=DJANGO&color=092E20&width=200" />
+  <img src="https://progress-bar.dev/80/?title=LARAVEL&color=FF2D20&width=200" />
+  <img src="https://progress-bar.dev/90/?title=EXPRESSJS&color=000000&width=200" />
+  <img src="https://progress-bar.dev/90/?title=TAILWIND&color=38B2AC&width=200" />
+  <img src="https://progress-bar.dev/65/?title=CYBERSECURITY&color=000000&width=200" />
+  <img src="https://progress-bar.dev/75/?title=LUA+GAME+DEV&color=2C2D72&width=200" />
+</p>  
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />  
